@@ -1,6 +1,8 @@
 # 🤖 HR Chatbot with FAISS + GPT-4o
 
 An interactive chatbot that answers HR policy questions using FAISS vector search and GPT-4o via GitHub-provided OpenAI token.
+<img width="606" height="603" alt="image" src="https://github.com/user-attachments/assets/a32261ea-a135-4bbb-bf2d-9655e15c3ae3" />
+
 
 ---
 
